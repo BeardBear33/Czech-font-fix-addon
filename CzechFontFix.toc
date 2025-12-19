@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Czech Font Fix
+## Notes: Gossip font s diakritikou + nastavení
+## Author: BeardBear
+## Version: 2.0
+## SavedVariables: CFF_Saved
+core.lua
