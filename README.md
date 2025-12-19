@@ -1,4 +1,4 @@
-Addon umožňuje vybrat z několika různých fontů podporující českou diakritiku, libovolný výběr kde se má font aplikovat a jakou má mít písmo velikost. Vše se nastavuje v Menu-Interface-Addons nebo příkazem "/cff"  
+Addon umožňuje vybrat z několika různých fontů podporující českou diakritiku, libovolný výběr kde se má font aplikovat a jakou má mít písmo velikost. Vše se nastavuje v Menu-Interface-Addons nebo příkazem "/cff". Podporovaná verze je Wrath of the Lich King 3.3.5a  
 Na výběr je z:  
 - Gossip menu - Defaultně nastaven FRIZQT, velikost písma 13.  
 - Chat okno - Defaultně nastaven officiální blizzard font a velikost písma.  
